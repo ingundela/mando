@@ -207,6 +207,9 @@ footer p{
     footer{
         padding: 30px 0;
     }
+   p{
+       font-size: 1rem;
+   }
 }
 
 
